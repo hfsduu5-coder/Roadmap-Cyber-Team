@@ -1,10 +1,12 @@
-# Cyber Team Roadmap
+<p align="center"><img src="assets/cyberiq-logo.svg" width="86" alt="CyberIQ logo">&nbsp;&nbsp;<strong>CyberIQ</strong></p>
 
-An interactive roadmap experience for **Cyber Team** at Al-Iraqia University.
+# CyberIQ Roadmap
+
+An interactive roadmap experience for **CyberIQ** at Al-Iraqia University.
 
 ## Overview
 
-This project presents a structured Cyber Team roadmap through a responsive Arabic RTL website with a cybersecurity-inspired interface.
+This project presents a structured CyberIQ roadmap through a responsive Arabic RTL website with a cybersecurity-inspired interface.
 
 ## Features
 
@@ -30,4 +32,4 @@ No build tools or dependencies are required.
 
 ## Purpose
 
-Designed to communicate a learning and development roadmap for Cyber Team activities and students interested in cybersecurity.
+Designed to communicate a learning and development roadmap for CyberIQ activities and students interested in cybersecurity.
