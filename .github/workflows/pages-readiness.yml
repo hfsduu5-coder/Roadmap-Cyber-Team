@@ -1,0 +1,20 @@
+name: Pages readiness
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  readiness:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/static_check.py
+      - name: Verify Pages entry point
+        run: test -f index.html
+      - name: Reject placeholder official-logo references
+        run: |
+          if grep -R "cyberiq-logo.svg" index.html README.md manifest.webmanifest 2>/dev/null; then
+            echo "Placeholder logo reference found"; exit 1
+          fi
