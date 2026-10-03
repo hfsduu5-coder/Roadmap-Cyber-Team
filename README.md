@@ -1,5 +1,3 @@
-<p align="center"><img src="assets/cyberiq-logo.svg" width="86" alt="CyberIQ logo">&nbsp;&nbsp;<strong>CyberIQ</strong></p>
-
 # CyberIQ Roadmap
 
 An interactive roadmap experience for **CyberIQ** at Al-Iraqia University.
@@ -33,6 +31,10 @@ No build tools or dependencies are required.
 ## Purpose
 
 Designed to communicate a learning and development roadmap for CyberIQ activities and students interested in cybersecurity.
+## Project Status
+
+This repository is maintained as part of my public cybersecurity and software-engineering portfolio. Development focuses on clear documentation, reproducible local workflows, defensive/educational use, and evidence-backed claims. CyberIQ branding uses the official team identity only when the official asset is available; placeholder logo artwork is not presented as official.
+
 ## 👤 Developer
 
 **مقتدى الصدر جارالله خليف — Muqtada Al-Sadr Jarallah Khalif**  
