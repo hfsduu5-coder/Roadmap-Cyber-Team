@@ -33,3 +33,9 @@ No build tools or dependencies are required.
 ## Purpose
 
 Designed to communicate a learning and development roadmap for CyberIQ activities and students interested in cybersecurity.
+## 👤 Developer
+
+**مقتدى الصدر جارالله خليف — Muqtada Al-Sadr Jarallah Khalif**  
+**الحنتوشي — Al-Hantooshi**  
+Developer • Team Leader & CEO of **CyberIQ**
+
